@@ -1,5 +1,7 @@
 import { useState } from "react";
-
+import { CoinCanvas } from "./components/ui/CoinCanvas";
+import { Dashboard } from "./pages/Dashboard";
+import { LoginModal } from "./components/auth/LoginModal";
 /* ──────────────────────────────────────────────────────────────
    ROOT
 ────────────────────────────────────────────────────────────── */
